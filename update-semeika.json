@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.1.6",
-  "apkUrl": "https://github.com/ilyasivanov-star/builder-android-release/releases/download/kurier-0.1.6/RoboSemeika-0.1.6-debug.apk",
-  "notes": "Проверка обновлений через jsDelivr-зеркало (обход блокировок GitHub). Запуск роботов с защитой и сообщением об ошибке."
+  "versionCode": 8,
+  "versionName": "0.1.7",
+  "apkUrl": "https://github.com/ilyasivanov-star/builder-android-release/releases/download/kurier-0.1.7/RoboSemeika-0.1.7-debug.apk",
+  "notes": "Проверка версий по нескольким источникам (GitHub + CDN-зеркала) — устойчива к блокировкам."
 }
