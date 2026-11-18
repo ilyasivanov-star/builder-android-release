@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.1.9",
-  "apkUrl": "https://github.com/ilyasivanov-star/builder-android-release/releases/download/kurier-0.1.9/RoboSemeika-0.1.9-debug.apk",
-  "notes": "В семейке новый робот: 🎹 Нотка — пианино с выбором звучания (рояль, электропиано, синтезатор, шкатулка, орган)."
+  "versionCode": 11,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/ilyasivanov-star/builder-android-release/releases/download/kurier-0.2.0/RoboSemeika-0.2.0-debug.apk",
+  "notes": "Портрет Нотки в списке роботов"
 }
