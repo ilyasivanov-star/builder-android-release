@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.2.0",
-  "apkUrl": "https://github.com/ilyasivanov-star/builder-android-release/releases/download/kurier-0.2.0/RoboSemeika-0.2.0-debug.apk",
-  "notes": "Портрет Нотки в списке роботов"
+  "versionCode": 12,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/ilyasivanov-star/builder-android-release/releases/download/semeika-0.3.0/RoboSemeika-0.3.0-debug.apk",
+  "notes": "Переименование пакета com.buildervideo.kurier → com.buildervideo.semeika; фикс легаси-манифеста Видосика (update.json → update-vidosik.json); аватар Нотки"
 }
